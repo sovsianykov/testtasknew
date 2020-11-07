@@ -1,0 +1,58 @@
+@mixin flexCenter($direction) {
+	display: flex;
+	width: 100%;
+	height: 100%;
+	align-items: center;
+	justify-content: center;
+	flex-direction: ($direction);
+	
+}
+@mixin iconBox($color , $fontsize) {
+	a {
+		display: flex;
+		position: relative;
+		width: 69px;
+		height: 69px;
+		align-items: center;
+		font-size: $fontsize ;
+
+		border-bottom: .1px solid #e7e7e7;
+		border-right: .1px solid #e7e7e7;
+		color : $color;
+		transition: .2s;
+		z-index: 1000;
+		i {
+			position: absolute;
+			left: (69px - $fontsize)/2;
+
+		}
+		span {
+			margin-left: 69px;
+			padding-right: 30px;
+			color: white;
+			font-size: 14px;
+			display: none;
+			transition: .7s;
+
+
+
+		}
+		&:hover {
+			color:white ;
+			background-color: $color;
+			border-bottom: .2px solid $color;
+			border-right: .2px solid $color;
+		//box-shadow: 0 0 1px grey;
+			
+			z-index: 1000;
+			width: 158px;
+			
+			span {
+				display: block;
+			}
+			
+		}
+		
+	}
+	
+}

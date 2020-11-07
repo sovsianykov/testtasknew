@@ -1,0 +1,50 @@
+.container {
+	display: flex;
+	width: 100%;
+	height: 1800px;
+	.sidebar {
+		z-index: 1000;
+		position: fixed;
+		width: 70px;
+		height: 100%;
+		top: 79px;
+		background-color: #f9f9f9;
+			.p {
+			@include iconBox( #14b9d6 , 16px)
+			}
+			.m {
+				@include iconBox( #e76049, 20px )
+
+				}
+			.c {
+					@include iconBox(#2eb398, 17px )
+			}
+			.v {
+				@include iconBox( #90899c , 14px)
+			}
+			.s {
+				@include iconBox( #5692b1, 18px )
+				}
+			.a {
+					@include iconBox( #f9b704, 19px )
+					}
+			.b {
+						@include iconBox( #dd1787, 17px)
+				}
+			.pl {
+					@include iconBox( #e76049, 22px)
+
+
+				}
+				.cg {
+
+					@include iconBox( #585858, 17px
+
+					);
+					background-color: white;
+					position: fixed;
+					bottom: 0;
+				}				
+	}
+	
+}

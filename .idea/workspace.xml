@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad5c3e2a-3b19-49e9-9179-7fe0f6f812f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/detail/Layer1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/detail/Layer5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/detail/Layer8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/detail/Rectangle 5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/detail/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/detail/dotted divider.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/detail/icon-rss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/detail/icon-subscribe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/detail/icon_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/detail/icon_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/detail/img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/detail/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/detail/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/detail/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/detail/settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/detail/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/detail/user.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/_mixin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/_mixin.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/news.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/news.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/sidebar.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="develop" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jrlJi3yQShfA4170PuBXMIkFMA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="D:\DATA\Kristina lessons\TESTASK\sovsianykov-fr_10\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="detail.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/sovsianykov-fr_10/src/detail.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.detail.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad5c3e2a-3b19-49e9-9179-7fe0f6f812f8" name="Default Changelist" comment="" />
+      <created>1604570023263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604570023263</updated>
+      <workItem from="1604570025487" duration="15137000" />
+      <workItem from="1604764717624" duration="3944000" />
+      <workItem from="1604773436133" duration="30000" />
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1604571502170</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604571502170</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first">
+      <created>1604577179724</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604577179724</updated>
+    </task>
+    <task id="LOCAL-00003" summary="sidebar">
+      <created>1604590835494</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604590835494</updated>
+    </task>
+    <task id="LOCAL-00004" summary="News hover">
+      <created>1604675402492</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604675402492</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first" />
+    <MESSAGE value="sidebar" />
+    <MESSAGE value="News hover" />
+    <option name="LAST_COMMIT_MESSAGE" value="News hover" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="711" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604570637199">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1604570637199" />
+    <state x="585" y="20" key="CommitChangelistDialog2" timestamp="1604675400967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="20" key="CommitChangelistDialog2/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1604675400967" />
+    <state x="540" y="255" key="IDE.errors.dialog" timestamp="1604571579198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="255" key="IDE.errors.dialog/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1604571579198" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1604764920294">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1604764920294" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1604675562213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1604675562213" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1604764833486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1604764833486" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604582500782">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1604582500782" />
+  </component>
+</project>

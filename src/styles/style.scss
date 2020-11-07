@@ -1,0 +1,50 @@
+@import "./_resets.scss";
+@import "./_variables.scss";
+@import "./_mixin.scss";
+@import"./icon-style.scss";
+@import"./header.scss";
+@import"./sidebar.scss";
+@import "./news.scss";
+@import "./media.scss";
+
+
+@font-face {
+	font-family: montserrat;
+	src: url('../fonts/Montserrat-Bold.ttf');
+}
+@font-face {
+	font-family: montserratR;
+	src: url('../fonts/Montserrat-Regular.ttf');
+}
+@font-face {
+	font-family: OpenSans;
+	src: url('../fonts/OpenSans-Light.ttf');
+
+}
+@font-face {
+	font-family: OpenSansB;
+	src: url('../fonts/OpenSans-Bold.ttf');
+
+}@font-face {
+	font-family: OpenSansR;
+	src: url('../fonts/OpenSans-Regular.ttf');
+
+}@font-face {
+	font-family: OpenSansSm;
+	src: url('../fonts/OpenSans-Semibold.ttf');
+
+}
+a {
+	text-decoration: none ;
+	color: lightgray;
+	font-family: montserrat;
+
+	// i {
+
+
+	// }
+}
+img {
+	width: 100%;
+}
+

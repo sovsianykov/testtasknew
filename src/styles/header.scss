@@ -1,0 +1,149 @@
+header {
+	width: 100%;
+	position: fixed;
+	height: 79px;
+	margin: 0 auto;
+	z-index: 1000;
+
+	background-image: url("../img/backgrounds/header-bg.jpg");
+	nav	{
+	display: flex;
+	width: 100%;
+	height: 100%;
+	position: relative;
+	align-items: center;
+	padding-right: 30px;
+	.logo	{
+		position: fixed;
+		width: 212px;
+		height: 17px;
+		left:32px;
+		overflow: hidden;	
+	}
+	.burger {
+		position: fixed;
+		width: 40px;
+		right:  40px;
+		display: none;
+
+	}
+	ul {
+		position: fixed;
+		top: 0;
+		right: 0;
+		height: 100%;
+		display: flex;
+		list-style: none;
+
+		
+		li {
+			height: 79px;
+			min-width: 79px	;
+			display: inline-flex;
+			position: relative;
+
+			a.m {
+
+				@include flexCenter(row);
+				cursor: pointer;
+				font-size: 14px;
+				color: #525252;
+				font-family: montserrat;
+				&:hover {
+					background: #1e1e1e;
+					color: #ffffff;
+				}
+			}
+			a.ic {
+
+				@include flexCenter(row);
+				cursor: pointer;
+				font-size: 20px;
+				color: #525252;
+				&:hover {
+					background: #1e1e1e;
+					color: #ffffff;
+				}
+			}
+
+			
+		}
+		.share {
+			width: 108px;
+		}
+
+	
+		
+	}
+}
+}
+
+ul.droop 	{
+	position: absolute;
+	top: 79px;
+	//right:-10px;
+	height: 202px;
+	display: none;
+	width: 185px;
+	 border: .1px solid #000000;
+	border-top: none;
+
+	box-shadow: 1px 2px 5px rgba(203, 203, 203, .7 );
+	transition: .5s;
+	
+
+
+	li {
+		height: 50px;
+		width: 100%;
+		border-top: .1px solid #e7e7e7;
+		background: #ffffff;
+	
+
+		
+		
+		a {
+		@include flexCenter(row);
+			font-family: OpenSansB;
+			font-size: 13px;
+			font-weight: bold;
+			font-stretch: normal;
+			font-style: normal;
+			color: #111111;
+
+		
+
+			div {
+			justify-content: space-between;
+			 //border-top: .2px solid rgb(207, 205, 205);
+			 
+				
+				//padding-left :10px;
+				&.lnk {
+					display: flex;
+					justify-content: center;
+					width: 50px;
+					height: 50px;
+					align-items: center;
+					border-right: .1px solid #e7e7e7;
+
+				}
+			}
+			.t {
+				width: 80%;
+				padding-left: 10px;
+
+
+			}
+			i {
+				font-size: 19px;
+				color: #0a0a0a;
+			}
+			
+		}
+	} 
+}
+
+li.share:hover ul.droop {
+	display: block;
+}
